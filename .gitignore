@@ -1,0 +1,19 @@
+# OS cache directories
+Thumbs.db
+*.DS_Store
+
+# Folder config file
+Desktop.ini
+
+# Phpstorm project files
+.idea/
+
+# SublimeText project files
+*.sublime-project
+*.sublime-workspace
+
+# SFTP Sublime Text Plugin config file
+sftp-config*.json
+
+# Maintenance mode
+.maintenance
